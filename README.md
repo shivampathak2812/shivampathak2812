@@ -9,8 +9,8 @@
   - 🧮 Matrix Calculator using HTML/CSS/JS
 - 💬 Ask me about **Python, Web Development (HTML/CSS/JS), GitHub, APIs**
 - 📫 Reach me at **pathakshivam3738@gmail.com**
-- ⚡ Fun Fact: 💡 "I can turn coffee into code!" ☕💻/n
-                💡 "99 bugs in the code, take one down, 127 bugs in the code!" 🐞😂/n
+- ⚡ Fun Fact: 💡 "I can turn coffee into code!" ☕💻
+                💡 "99 bugs in the code, take one down, 127 bugs in the code!" 🐞😂
                 💡 "My code runs... because I don’t let it walk!" 🏃‍♂️🔥
 
 ---
