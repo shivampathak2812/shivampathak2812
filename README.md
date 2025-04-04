@@ -1,48 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shivam Pathak</h1>
-<h3 align="center">Python Developer | I am a passionate Software Engineer from India 🇮🇳</h3>
+### 👋 Hey there, I'm Shivam Pathak!  
 
-- 🔭 I’m currently working on **Web-based projects using HTML, CSS, and JavaScript**
-- 🌱 I’m learning **full-stack development** and improving my **problem-solving skills**
-- 👨‍💻 I’ve completed a **Python Development Internship** at **Cognify Technology**
-- 👯 I’ve built cool projects like:
-  - 🚗 Car Racing Game using Python  
-  - 🧮 Matrix Calculator using HTML/CSS/JS
-- 💬 Ask me about **Python, Web Development (HTML/CSS/JS), GitHub, APIs**
-- 📫 Reach me at **pathakshivam3738@gmail.com**
-- ⚡ Fun Fact: 💡 "I can turn coffee into code!" ☕💻
-                💡 "99 bugs in the code, take one down, 127 bugs in the code!" 🐞😂
-                💡 "My code runs... because I don’t let it walk!" 🏃‍♂️🔥
+🚀 **Software Engineer** | **Python & Web Developer** | **Ex-Intern @ Cognify Technology**  
+🌍 **From India** | Passionate about building cool and impactful software!  
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### 🔥 About Me
+- 🖥️ I specialize in **Python & Web Development**
+- 💡 I love **problem-solving, automation, and learning new tech**
+- 📚 Currently exploring **backend development & APIs**
+- 🎯 My goal is to contribute to **open-source** and build exciting projects!
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=errorfinder234&show_icons=true&theme=radical" alt="Shivam's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=errorfinder234&theme=radical" width="400"/>
-</p>
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 🌐 Connect with Me
+### ⚡ Fun Fact
+💡 **"I debug my life the same way I debug my code—trial and error!"** 😆
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-pathak-9a76ba246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pathakshivam3738@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+---
+
+### 📊 GitHub Stats
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivampathak2812&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampathak2812&layout=compact&theme=radical)
+
+---
+
+### 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-pathak-9a76ba246)  
+📧 **Email:** pathakshivam3738@gmail.com
+
+---
+
+🚀 **Let's connect and collaborate on amazing projects!**
