@@ -1,4 +1,4 @@
-# Hi there, I'm Shivam Pathak 👋  
+# Hi there, I'm Shivam Pathak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  
 ### Python Developer | Data Analyst | Data Scientist  
 🎓 Computer Science Graduate (June 2025)  
 💻 Specializing in **Python Development, Data Science, and Machine Learning**  
