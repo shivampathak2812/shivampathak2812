@@ -1,9 +1,21 @@
-# Hi there, I'm Shivam Pathak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  
-### Python Developer | Data Analyst | Data Scientist  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+<h1 align="center">
+  Hi there, I'm Shivam Pathak 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h1>
+
+<h3 align="center">Python Developer | Data Analyst | Data Scientist</h3>
+
 🎓 Computer Science Graduate (June 2025)  
 💻 Specializing in **Python Development, Data Science, and Machine Learning**  
 📊 Interested in **Data Analysis, AI, and Scalable Applications**  
 ✅ TCS NQT 2025 Qualified  
+
+---
+ 
 ---
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
