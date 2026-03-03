@@ -2,10 +2,9 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">
-  Hi there, I'm Shivam Pathak 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Shivam+Pathak+👋" />
+</p>
 
 <h3 align="center">
 Python Developer | Data Analyst | Data Scientist
