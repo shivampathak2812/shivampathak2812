@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-Python Developer | Data Analyst | Data Scientist
+Software Developer | Data Analyst | Data Scientist
 </h3>
 
 <p align="center">
