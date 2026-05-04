@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Shivam+Pathak+👋" />
 </p>
 <h3 align="center">
-Software Developer | Data Analyst | Data Scientist
+Software Developer | Data Scientist | AI Engineer
 </h3>
 <p align="center">
 🎓 Computer Science Graduate (June 2025) <br/>
