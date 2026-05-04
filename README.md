@@ -1,15 +1,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Shivam+Pathak+👋" />
 </p>
-
 <h3 align="center">
 Software Developer | Data Analyst | Data Scientist
 </h3>
-
 <p align="center">
 🎓 Computer Science Graduate (June 2025) <br/>
 💻 Python • Data Science • Machine Learning <br/>
@@ -26,6 +23,8 @@ Software Developer | Data Analyst | Data Scientist
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=buffer&logoColor=white"/>
 </p>
 
 <h3 align="center">📊 Data Analysis & Visualization</h3>
@@ -36,14 +35,14 @@ Software Developer | Data Analyst | Data Scientist
   <img src="https://img.shields.io/badge/Seaborn-5E4FA2?style=for-the-badge"/>
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">🗄️ Databases & Storage</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alembic-013243?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-
 
 <h3 align="center">🌐 Frontend</h3>
 <p align="center">
@@ -52,14 +51,15 @@ Software Developer | Data Analyst | Data Scientist
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="center">🛠️ Tools</h3>
+<h3 align="center">🛠️ Tools & DevOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
-
 
 ---
 
@@ -74,7 +74,6 @@ Software Developer | Data Analyst | Data Scientist
 ---
 
 <h2 align="center">📫 Connect With Me</h2>
-
 <p align="center">
   <a href="mailto:pathakshivam3738@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
