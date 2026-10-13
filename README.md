@@ -1,17 +1,28 @@
+# Shivam Pathak
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Shivam+Pathak+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Shivam+Pathak+%F0%9F%91%8B" />
 </p>
+
 <h3 align="center">
-Software Developer | Data Scientist | AI Engineer
+Data & AI Engineer | Python | Machine Learning | Generative AI
 </h3>
+
 <p align="center">
-🎓 Computer Science Graduate (June 2025) <br/>
-💻 Python • Data Science • Machine Learning <br/>
-📊 Data Analysis • AI • Scalable Applications <br/>
-✅ TCS NQT 2025 Qualified
+  <a href="https://www.shivam-pathak.com"><img src="https://img.shields.io/badge/Portfolio-shivam--pathak.com-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shivam-pathak-9a76ba246"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  🎓 Computer Science Graduate — Graphic Era Hill University <br/>
+  💻 Python • SQL • FastAPI • PostgreSQL <br/>
+  🧠 Machine Learning • LLMs • RAG • AI Agents <br/>
+  📊 Data Analysis • ETL Pipelines • Data Engineering <br/>
+  ✅ TCS NQT 2025 Qualified
 </p>
 
 ---
@@ -28,7 +39,6 @@ Software Developer | Data Scientist | AI Engineer
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
@@ -77,17 +87,26 @@ Software Developer | Data Scientist | AI Engineer
 
 ---
 
+<h2 align="center">📌 Featured Projects</h2>
+
+- **Portfolio Website:** <a href="https://www.shivam-pathak.com">www.shivam-pathak.com</a> — Professional profile, technical skills and projects.
+- **Exploratory Data Analysis:** <a href="https://github.com/shivampathak2812/Exploratory-Data-Analysis">GitHub Repository</a> — Data exploration and analysis.
+- **PHP Vibe Coder:** RAG-based PHP project generator.
+
+---
+
 <h2 align="center">🏆 Achievements & Certifications</h2>
 
-- ✅ **TCS National Qualifier Test (NQT) 2025** – Shortlisted for Ninja role (Top 10% nationwide)  
-- 🏀 **National Basketball Championship** – State-level representation  
-- ☁️ **Google Cloud Skills Boost** – Generative AI Fundamentals (2024)  
-- 🐍 **Python Development Intern** – Cognifyz Technologies (2024)  
-- 💡 Active problem solver with focus on **DSA & optimization**
+- ✅ **TCS National Qualifier Test (NQT) 2025** — Qualified.
+- 🏀 **Basketball:** National-level competition experience and state-level representation.
+- ☁️ **Google Cloud Skills Boost** — Generative AI Fundamentals (2024).
+- 🐍 **Python Development Intern** — Cognifyz Technologies (2024).
+- 💡 Active problem solver focused on DSA and optimization.
 
 ---
 
 <h2 align="center">📫 Connect With Me</h2>
+
 <p align="center">
   <a href="mailto:pathakshivam3738@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -98,10 +117,16 @@ Software Developer | Data Scientist | AI Engineer
   <a href="https://github.com/shivampathak2812">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.shivam-pathak.com">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-⭐️ From <a href="https://github.com/shivampathak2812">shivampathak2812</a>
+  <b>Shivam Pathak | Data & AI Engineer</b><br/>
+  <a href="https://www.shivam-pathak.com">Portfolio</a> ·
+  <a href="https://github.com/shivampathak2812">GitHub</a> ·
+  <a href="https://linkedin.com/in/shivam-pathak-9a76ba246">LinkedIn</a>
 </p>
